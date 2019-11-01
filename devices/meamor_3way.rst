@@ -85,7 +85,7 @@ With careful twisting motion detatch the face plate.
 After that, use the same screwdriver to carefully lift the top PCB off of the switch.
 This PCB contains the ESP chip and what's left inside the switch body are relays.
 
-.. figure:: images/meamor_3way_lifttheplate.jpg
+.. figure:: images/Meamor_3way_lifttheplate.jpg
     :align: center
     :width: 75.0%
 
