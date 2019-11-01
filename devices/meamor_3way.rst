@@ -240,7 +240,7 @@ of the basic functions.
   - platform: status
     name: "Tuya 3 switch Status"
 
-switch:
+  switch:
   - platform: gpio
     name: "Stand_1"
     id: stand_1
