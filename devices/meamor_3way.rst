@@ -22,6 +22,14 @@ This guide will step you through setting up your Meamor 3 way lightswitch and fl
 with the serial interface. After that, you will be able to upload all future firmwares with the remote
 Over-The-Air update process.
 
+Specs of the Meamor:
+Weight	            141 g
+Measurements	    8,6 x 8,6 x 4 cm
+Volt	            240 Volt
+Watt	            1800 Watt
+Certificatiomn	    CE
+
+
 The only way to flash the initial ESPHome firmware is by physically opening the device up and using the UART
 interface.
 
