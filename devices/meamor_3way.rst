@@ -23,6 +23,7 @@ with the serial interface. After that, you will be able to upload all future fir
 Over-The-Air update process.
 
 Specs of the Meamor:
+
 ======================================== =========================================
 Weight	                                 141 g
 ---------------------------------------- -----------------------------------------
