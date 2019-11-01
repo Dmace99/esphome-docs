@@ -147,16 +147,9 @@ that leg is connected to the GPIO0 on ESP and plug the UART to your USB port.
 Keep holding  GND and GPIO0 connected for 2-4 seconds. The Meamor should now be in a flash mode and should not blink with any LED.
 The touchpads may light up.
 
-.. figure:: images/sonoff_t1_uk_3g_back_plate_v1.1.jpg
-    :align: center
-
-    Connect red and yellow contacts while powering the board.
-
-Now you can finally run the upload command:
-
 .. code-block:: bash
 
-    esphome sonoff_t1_uk_3g_v1.1.yaml run
+    esphome meamor_3way.yaml run
 
 If successful, you should see something like this:
 
@@ -301,7 +294,7 @@ Step 6: Finishing Up
 --------------------
 
 If you're sure everything is done with the Meamor 3 way lightswitch and have double checked there's nothing that could cause a short
-in the case, you can put the T1 back together.
+in the case, you can put the Meamor back together.
 
 Now triple or even quadruple check the UART bridge is not connected to the Meamor 3 way lightswitch, then comes the time when you can
 connect it.
