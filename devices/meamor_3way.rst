@@ -12,7 +12,7 @@ basically just an ESP8266 chip with 3 relays to control power output and three b
 
     This instruction is made for Meamor with the touch board 
 
-.. figure:: images/Meamor3way.jpg
+.. figure:: images/Meamor_3way.jpg
     :align: center
     :width: 75.0%
 
